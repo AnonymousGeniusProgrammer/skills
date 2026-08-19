@@ -1,0 +1,6 @@
+interface:
+  display_name: "Git worktree"
+  short_description: "Create git work trees for work chunks that can be parallelized in one code base"
+  default_prompt: "Use $git-work-tree to create a new work tree for this bare repo"
+policy:
+  allow_implicit_invocation: false
