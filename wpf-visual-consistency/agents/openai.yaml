@@ -1,0 +1,5 @@
+interface:
+  display_name: WPF Visual Consistency
+  short_description: Refactor WPF presentation code using the visual-consistency workflow.
+policy:
+  allow_implicit_invocation: false

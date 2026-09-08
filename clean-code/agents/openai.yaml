@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Code"
+  short_description: "Apply Clean Code principles and study its examples"
+  default_prompt: "Use $clean-code to review this code and explain the most useful improvements with relevant chapter references."

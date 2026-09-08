@@ -1,0 +1,61 @@
+{
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "primary_author": "Robert C. Martin",
+  "contributors": [
+    "Michael Feathers",
+    "Tim Ottinger",
+    "Jeff Langr",
+    "Brett L. Schuchert",
+    "James Grenning",
+    "Kevin Dean Wampler"
+  ],
+  "isbn_13": "978-0-13-235088-4",
+  "first_printing": "July 2008",
+  "copyright_year": 2009,
+  "source_file": "C:\\Users\\r.li\\OneDrive - Gebhardt Fördertechnik GmbH\\Literatur\\Software Design\\Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+  "sha256": "034292d5e0a2e27bc3444ff41216139537b4e0729661c79ee0a8ad3298db3857",
+  "pdf_pages": 462,
+  "printed_page_to_pdf_page_offset": 31,
+  "generated_on": "2026-09-08",
+  "language": "English",
+  "skill_name": "clean-code",
+  "chapter_count": 17,
+  "appendix_count": 3,
+  "successful_extraction": {
+    "method": "pypdf",
+    "words": 125286,
+    "estimated_source_tokens": 167048,
+    "automatic_chapter_count_rejected": 915,
+    "structure_basis": "Verified printed table of contents and chapter openings"
+  },
+  "inspection": {
+    "text": "Chapter-focused reading from the extracted corpus and independently addressable PDF pages",
+    "visually_checked_printed_pages": [
+      156,
+      322,
+      409,
+      410
+    ],
+    "limitations": [
+      "Illustrations were not systematically interpreted.",
+      "Some PDF text has ligature, layout, or listing-order artifacts; examples were reconstructed and labeled.",
+      "Docling completed conversion after disabling TorchDynamo compilation, but its export could not be saved because of temporary-directory permissions. The saved source corpus and metadata use pypdf.",
+      "The PDF Appendix C contains stale and malformed cross references; the skill provides verified lookup guidance."
+    ],
+    "source_material_not_bundled": [
+      "Original PDF",
+      "Full extracted text",
+      "Rendered source pages"
+    ]
+  },
+  "scope": {
+    "purpose": "Practical application, mental models, and chapter reference",
+    "depth": "Study-oriented with worked examples; shorter listing/navigation appendices",
+    "treatment": "Synthesized guidance with labeled reconstructions and context-sensitive adaptations",
+    "omitted_as_separate_files": [
+      "Front matter",
+      "Epilogue",
+      "Original back-of-book index"
+    ]
+  }
+}
